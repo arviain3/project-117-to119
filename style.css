@@ -1,0 +1,18 @@
+body {
+    background: purple;
+}
+
+#score{
+    font-size: 10px;
+    margin-left: 20px;
+}
+
+#time{
+    font-size: 10px;
+    margin-right: 20px;
+    float:right;
+}
+
+#sketch_name {
+    color:white;
+}
